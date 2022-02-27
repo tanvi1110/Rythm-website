@@ -5,7 +5,7 @@ body {
     overflow: hidden;
     position: relative;
     background: rgb(2, 0, 36);
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    background: linear-gradient(270deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgb(228, 147, 126) 100%);
 }
 
 .nav {
@@ -57,7 +57,7 @@ img {
     top: 240px;
     left: 40px;
     font-size: 45px;
-    color: #00d4ff;
+    color: #2297db;
     letter-spacing: 0.06em;
     font-family: fantasy;
     text-transform: uppercase;
